@@ -9,10 +9,9 @@ This project involves a comprehensive study of Covid-19 with respect to its time
 1. Explore the data after loading and perform basic data preparation, if required.
 2. Create an animated time series of Covid-19 active/death cases in different countries, with an animation that changes with dates.
 3. Create a dashboard dedicated to the Covid-19 situation in your country, including metrics like total cases, deaths, vaccinations, and hospital admissions.
-4. Create a Covid-19 Vaccination Dashboard to show the global vaccination status.
-5. Create dashboards to explore various variables related to Covid-19's global impact. Choose relevant columns for your analysis.
-6. Create dashboard(s) to analyze how demographic, economic, and public health statuses have influenced Covid-19 growth or decline globally.
-7. Storyboard creation is required for those working on comprehensive analyses.
+4. Create dashboards to explore various variables related to Covid-19's global impact. Choose relevant columns for your analysis.
+5. Create dashboard(s) to analyze how demographic, economic, and public health statuses have influenced Covid-19 growth or decline globally.
+6. Storyboard creation is required for those working on comprehensive analyses.
 
 
 ### 🛠️ Tools
