@@ -14,7 +14,7 @@ This project involves a comprehensive study of Covid-19 with respect to its time
 6. Storyboard creation is required for those working on comprehensive analyses.
 
 
-### 🛠️ Tools
+### 🛠️ Tool
 
 - **Tools Used:** Tableau Public or Tableau Desktop (Academic Edition)
 
